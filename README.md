@@ -25,9 +25,13 @@ You need to have live server or any other preview extension installed.
 
 ### Installation
 1. Clone the repository: <br>
-   ``https://github.com/EpicNesh26/To-Do-Genie.git``
-2. Navigate to the project directory: <br>
-   ``cd to-do-genie``
+   ```sh
+   https://github.com/EpicNesh26/To-Do-Genie.git
+   ```
+3. Navigate to the project directory: <br>
+   ```sh
+   cd to-do-genie
+   ```
 
 ### Contributing
 We welcome contributions to improve To-Do Genie! To contribute:
