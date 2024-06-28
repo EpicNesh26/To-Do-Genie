@@ -25,7 +25,7 @@ You need to have live server or any other preview extension installed.
 
 ### Installation
 1. Clone the repository: <br>
-   ``git clone https://github.com/your-username/to-do-genie.git``
+   ``https://github.com/EpicNesh26/To-Do-Genie.git``
 2. Navigate to the project directory: <br>
    ``cd to-do-genie``
 
